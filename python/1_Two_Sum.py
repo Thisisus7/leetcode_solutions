@@ -1,6 +1,5 @@
 from typing import List
 
-# 1. loop
 class Solution:
     # input: int_list, int; output: int_list
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -15,7 +14,3 @@ class Solution:
 output = Solution().twoSum(nums = [3,2,4], target = 6)
 print(output)
 
-# 2
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pass
