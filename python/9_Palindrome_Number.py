@@ -1,3 +1,8 @@
+'''
+Key:
+We can directly handle numbers (not necessary to convert number to string)
+'''
+
 # 1
 class Solution:
     def isPalindrome(self, x: int) -> bool:

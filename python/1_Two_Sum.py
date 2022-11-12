@@ -1,3 +1,9 @@
+'''
+Key:
+1. using a hashmap to store numbers, and compare complements with numbers in hashmap
+2. Reversing index and value, because of map.get() 
+'''
+
 from typing import List
 
 class Solution:
