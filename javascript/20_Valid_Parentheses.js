@@ -1,3 +1,7 @@
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
 var isValid = function(s) {
     stack = [];
     map ={
@@ -7,7 +11,6 @@ var isValid = function(s) {
     };
 
     for (c of s) {
-        console.log(stack);
         if (c in map) {
             if (stack && stack[stack.length - 1] === map[c]) {
                 stack.pop();

@@ -1,3 +1,8 @@
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
+
 // 1. Reverse String
 var isPalindrome = function(x) {
     // 1) x is negative  2)x is at least two digits，the single digit of x is 0

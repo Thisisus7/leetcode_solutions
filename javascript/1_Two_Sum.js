@@ -1,3 +1,8 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
 // 1.Loop
 var twoSum = function(nums, target) {
     for (let i=0; i<nums.length; i++) {
