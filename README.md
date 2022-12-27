@@ -1,8 +1,8 @@
-# Leetcode Solutions
+# Blind 75 & Neetcode 150
 
 ## JavaScript and Python
 
-### Blind 75 & Neetcode 150
+### Leetcode solutions
 
 ---
 
@@ -79,21 +79,21 @@ Hard
 
 Easy
 
-- 252.Meeting Rooms
-- 253.Meeting Rooms II
+- 252.Meeting Rooms (Plus)
 
 Medium
 
 - 56.Merge Intervals
 - 57.Insert Interval
+- 253.Meeting Rooms II (Plus)
 - 435.Non-overlapping Intervals
 
 #### Linked LIst
 
 Easy
 
-- 21.Merge Two Sorted Lists
-- 141.Linked List Cycle
+- 21.Merge Two Sorted Lists ~
+- 141.Linked List Cycle ~
 - 206.Reverse Linked List
 
 Medium
@@ -118,8 +118,8 @@ Medium
 
 Easy
 
-- 20.Valid Parentheses
-- 125.Valid Palindrome
+- 20.Valid Parentheses ~
+- 125.Valid Palindrome ~
 - 242.Valid Anagram
 
 Medium
@@ -139,7 +139,7 @@ Hard
 
 Easy
 
-- 100.Same Tree
+- 100.Same Tree ~
 - 104.Maximum Depth of Binary Tree
 - 226.Invert Binary Tree
 - 572.Subtree of Another Tree
