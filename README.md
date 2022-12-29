@@ -31,7 +31,7 @@ Medium
 Easy
 
 - 190.Reverse Bits ~
-- 191.Number of 1 Bits
+- 191.Number of 1 Bits ~
 - 268.Missing Number
 
 
@@ -140,8 +140,8 @@ Hard
 Easy
 
 - 100.Same Tree ~
-- 104.Maximum Depth of Binary Tree
-- 226.Invert Binary Tree
+- 104.Maximum Depth of Binary Tree ~
+- 226.Invert Binary Tree ~
 - 572.Subtree of Another Tree
 
 Medium
