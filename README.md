@@ -19,9 +19,9 @@ Easy
 Medium
 
 - 11.Container With Most Water ~
-- 15.3Sum
-- 33.Search in Rotated Sorted Array
-- 53.Maximum Subarray
+- 15.3Sum ~
+- 33.Search in Rotated Sorted Array ~
+- 53.Maximum Subarray ~
 - 152.Maximum Product Subarray
 - 153.Find Minimum in Rotated Sorted Array
 - 238.Product of Array Except Self
@@ -48,11 +48,11 @@ Easy
 
 Medium
 
-- 55.Jump Game
-- 62.Unique Paths
+- 55.Jump Game ~
+- 62.Unique Paths ~
 - 91.Decode Ways
 - 139.Word Break
-- 198.House Robber
+- 198.House Robber ~
 - 213.House Robber II
 - 300.Longest Increasing Subsequence
 - 322.Coin Change
@@ -63,8 +63,8 @@ Medium
 
 Medium
 
-- 128.Longest Consecutive Sequence
-- 133.Clone Graph
+- 128.Longest Consecutive Sequence ~
+- 133.Clone Graph ~
 - 200.Number of Islands
 - 207.Course Schedule
 - 261.Graph Valid Tree (Premium)
@@ -83,7 +83,7 @@ Easy
 
 Medium
 
-- 56.Merge Intervals
+- 56.Merge Intervals ~
 - 57.Insert Interval
 - 253.Meeting Rooms II (Plus)
 - 435.Non-overlapping Intervals
@@ -109,7 +109,7 @@ Hard
 
 Medium
 
-- 48.Rotate Image
+- 48.Rotate Image ~
 - 54.Spiral Matrix
 - 73.Set Matrix Zeroes
 - 79.Word Search
@@ -124,7 +124,7 @@ Easy
 
 Medium
 
-- 3.Longest Substring Without Repeating Characters
+- 3.Longest Substring Without Repeating Characters ~
 - 5.Longest Palindromic Substring
 - 49.Group Anagrams
 - 271.Encode and Decode Strings
@@ -373,3 +373,5 @@ Remove elements from an array (in place): double pointers.
 Ordered array: binary search
 
 array/string represents a number: reverse maybe helpful
+
+interval problems: draw a number line
