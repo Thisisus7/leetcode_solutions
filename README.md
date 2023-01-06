@@ -1,4 +1,4 @@
-# Blind 75 & Neetcode 150
+# Blind 75 & Neetcode 150 & Others
 
 ## JavaScript and Python
 
@@ -22,7 +22,7 @@ Medium
 - 15.3Sum ~
 - 33.Search in Rotated Sorted Array ~
 - 53.Maximum Subarray ~
-- 152.Maximum Product Subarray
+- 152.Maximum Product Subarray ~
 - 153.Find Minimum in Rotated Sorted Array
 - 238.Product of Array Except Self
 
@@ -51,11 +51,11 @@ Medium
 - 55.Jump Game ~
 - 62.Unique Paths ~
 - 91.Decode Ways
-- 139.Word Break
+- 139.Word Break ~
 - 198.House Robber ~
 - 213.House Robber II
 - 300.Longest Increasing Subsequence
-- 322.Coin Change
+- 322.Coin Change ~
 - 377.Combination Sum IV
 - 1143.Longest Common Subsequence
 
@@ -65,7 +65,7 @@ Medium
 
 - 128.Longest Consecutive Sequence ~
 - 133.Clone Graph ~
-- 200.Number of Islands
+- 200.Number of Islands ~
 - 207.Course Schedule
 - 261.Graph Valid Tree (Premium)
 - 323.Number of Connected Components in an Undirected Graph (Premium)
@@ -126,7 +126,7 @@ Medium
 
 - 3.Longest Substring Without Repeating Characters ~
 - 5.Longest Palindromic Substring
-- 49.Group Anagrams
+- 49.Group Anagrams ~
 - 271.Encode and Decode Strings
 - 424.Longest Repeating Character Replacement
 - 647.Palindromic Substrings
@@ -142,7 +142,7 @@ Easy
 - 100.Same Tree ~
 - 104.Maximum Depth of Binary Tree ~
 - 226.Invert Binary Tree ~
-- 572.Subtree of Another Tree
+- 572.Subtree of Another Tree ~
 
 Medium
 
