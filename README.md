@@ -217,7 +217,7 @@ Hard
 
 Easy
 
-- 704.Binary Search
+- 704.Binary Search ~
 
 Medium
 
@@ -246,7 +246,7 @@ Hard
 Easy
 
 - 110.Balanced Binary Tree
-- 543.Diameter of Binary Tree
+- 543.Diameter of Binary Tree ~
 
 Medium
 
@@ -345,7 +345,7 @@ Hard
 
 Easy
 
-- 66.Plus One
+- 66.Plus One ~
 - 202.Happy Number
 
 Medium
