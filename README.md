@@ -33,11 +33,11 @@ Easy
 - 190.Reverse Bits ~
 - 191.Number of 1 Bits ~
 - 268.Missing Number
+- 338.Counting Bits ~
 
 
 Medium
 
-- 338.Counting Bits
 - 371.Sum of Two Integers
 
 #### Dynamic Programming
@@ -245,7 +245,7 @@ Hard
 
 Easy
 
-- 110.Balanced Binary Tree
+- 110.Balanced Binary Tree ~
 - 543.Diameter of Binary Tree ~
 
 Medium
@@ -306,7 +306,7 @@ Hard
 
 Easy
 
-- 746.Min Cost Climbing Stairs
+- 746.Min Cost Climbing Stairs ~
 
 Medium
 
