@@ -120,7 +120,7 @@ Easy
 
 - 20.Valid Parentheses ~
 - 125.Valid Palindrome ~
-- 242.Valid Anagram
+- 242.Valid Anagram ~
 
 Medium
 
@@ -258,7 +258,7 @@ Medium
 Easy
 
 - 703.Kth Largest Element in a Stream
-- 1046.Last Stone Weight
+- 1046.Last Stone Weight ~
 
 Medium
 
@@ -271,7 +271,7 @@ Medium
 
 Medium
 
-- 17.Letter Combinations of a Phone Numbers
+- 17.Letter Combinations of a Phone Numbers ~
 - 40.Combination Sum II
 - 46.Permutations
 - 78.Subsets
@@ -358,7 +358,7 @@ Medium
 
 Easy
 
-- 136.Single Number
+- 136.Single Number ~
 
 Medium
 
