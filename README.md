@@ -183,7 +183,7 @@ Medium
 
 Medium
 
-- 167.Two Sum II Input Array Is Sorted
+- 167.Two Sum II Input Array Is Sorted ~
 
 Hard
 
@@ -329,7 +329,7 @@ Hard
 Medium
 
 - 45.Jump Game II
-- 134.Gas Station
+- 134.Gas Station ~
 - 678.Valid Parenthesis String
 - 763.Partition Labels
 - 846.Hand of Straights
