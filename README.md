@@ -152,7 +152,7 @@ Medium
 - 208.Implement Trie (Prefix Tree)
 - 211.Design Add and Search Words Data Structure
 - 230.Kth Smallest Element in a BST
-- 235.Lowest Common Ancestor of a Binary Search Tree
+- 235.Lowest Common Ancestor of a Binary Search Tree ~
 
 Hard
 
@@ -365,6 +365,13 @@ Medium
 - 7.Reverse Integer
 
 ---
+
+### Others
+
+#### Linked List
+
+- 203.Remove Linked List Elements
+- 234.Palindrome Linked List
 
 ### Problem
 
