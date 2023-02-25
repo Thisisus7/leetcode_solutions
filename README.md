@@ -368,10 +368,18 @@ Medium
 
 ### Others
 
+#### Hash Table
+
+- 205.Isomorphic Strings
+
 #### Linked List
 
 - 203.Remove Linked List Elements
 - 234.Palindrome Linked List
+
+#### Math
+
+- 263.Ugly Number ~
 
 ### Problem
 
