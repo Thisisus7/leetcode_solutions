@@ -371,6 +371,11 @@ Medium
 #### Two Pointer
 
 - 344.Reverse String ~
+- 680.Valid Palindrome II ~
+
+#### Binary Search
+
+- 374.Guess Number Higher or Lower ~
 
 #### Hash Table
 
@@ -385,6 +390,10 @@ Medium
 #### Matrix
 
 - 1260.Shift 2D Grid ~
+
+#### Stack
+
+- 682.Baseball Game ~
 
 #### Math
 
