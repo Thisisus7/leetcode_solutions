@@ -368,14 +368,23 @@ Medium
 
 ### Others
 
+#### Two Pointer
+
+- 344.Reverse String ~
+
 #### Hash Table
 
-- 205.Isomorphic Strings
+- 205.Isomorphic Strings ~
+- 290.Word Pattern ~
 
 #### Linked List
 
-- 203.Remove Linked List Elements
-- 234.Palindrome Linked List
+- 203.Remove Linked List Elements ~
+- 234.Palindrome Linked List ~
+
+#### Matrix
+
+- 1260.Shift 2D Grid ~
 
 #### Math
 
@@ -390,3 +399,5 @@ Ordered array: binary search
 array/string represents a number: reverse maybe helpful
 
 interval problems: draw a number line
+
+string: convert string to array may be helpful
