@@ -372,15 +372,18 @@ Medium
 
 - 344.Reverse String ~
 - 680.Valid Palindrome II ~
+- 283.Move Zeroes ~
 
 #### Binary Search
 
 - 374.Guess Number Higher or Lower ~
+- 441.Arranging Coins ~
 
 #### Hash Table
 
 - 205.Isomorphic Strings ~
 - 290.Word Pattern ~
+- 1189.Maximum Number of Balloons ~
 
 #### Linked List
 
