@@ -53,7 +53,7 @@ Medium
 - 91.Decode Ways
 - 139.Word Break ~
 - 198.House Robber ~
-- 213.House Robber II
+- 213.House Robber II ~
 - 300.Longest Increasing Subsequence
 - 322.Coin Change ~
 - 377.Combination Sum IV
@@ -368,11 +368,17 @@ Medium
 
 ### Others
 
+#### Array
+
+- 448.Find All Numbers Disappeared in an Array ~
+- 724.Find Pivot Index ~
+
 #### Two Pointer
 
+- 228.Summary Ranges ~
+- 283.Move Zeroes ~
 - 344.Reverse String ~
 - 680.Valid Palindrome II ~
-- 283.Move Zeroes ~
 
 #### Binary Search
 
@@ -390,6 +396,10 @@ Medium
 - 203.Remove Linked List Elements ~
 - 234.Palindrome Linked List ~
 
+#### Tree
+
+- 101.Symmetric Tree ~
+
 #### Matrix
 
 - 1260.Shift 2D Grid ~
@@ -400,16 +410,5 @@ Medium
 
 #### Math
 
+- 171.Excel Sheet Column Number
 - 263.Ugly Number ~
-
-### Problem
-
-Remove elements from an array (in place): double pointers.
-
-Ordered array: binary search
-
-array/string represents a number: reverse maybe helpful
-
-interval problems: draw a number line
-
-string: convert string to array may be helpful
