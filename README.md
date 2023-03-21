@@ -12,17 +12,17 @@
 
 Easy
 
-- 1.Two Sum ~
-- 121.Best Time to Buy and Sell Stock ~
-- 217.Contains Duplicate ~
+- 1.Two Sum :grin:
+- 121.Best Time to Buy and Sell Stock :grin:
+- 217.Contains Duplicate :grin:
 
 Medium
 
-- 11.Container With Most Water ~
-- 15.3Sum ~
-- 33.Search in Rotated Sorted Array ~
-- 53.Maximum Subarray ~
-- 152.Maximum Product Subarray ~
+- 11.Container With Most Water :grin:
+- 15.3Sum :grin:
+- 33.Search in Rotated Sorted Array :grin:
+- 53.Maximum Subarray :grin:
+- 152.Maximum Product Subarray :grin:
 - 153.Find Minimum in Rotated Sorted Array
 - 238.Product of Array Except Self
 
@@ -30,10 +30,10 @@ Medium
 
 Easy
 
-- 190.Reverse Bits ~
-- 191.Number of 1 Bits ~
+- 190.Reverse Bits :grin:
+- 191.Number of 1 Bits :grin:
 - 268.Missing Number
-- 338.Counting Bits ~
+- 338.Counting Bits :grin:
 
 
 Medium
@@ -44,18 +44,18 @@ Medium
 
 Easy
 
-- 70.Climbing Stairs ~
+- 70.Climbing Stairs :grin:
 
 Medium
 
-- 55.Jump Game ~
-- 62.Unique Paths ~
+- 55.Jump Game :grin:
+- 62.Unique Paths :grin:
 - 91.Decode Ways
-- 139.Word Break ~
-- 198.House Robber ~
-- 213.House Robber II ~
+- 139.Word Break :grin:
+- 198.House Robber :grin:
+- 213.House Robber II :grin:
 - 300.Longest Increasing Subsequence
-- 322.Coin Change ~
+- 322.Coin Change :grin:
 - 377.Combination Sum IV
 - 1143.Longest Common Subsequence
 
@@ -63,9 +63,9 @@ Medium
 
 Medium
 
-- 128.Longest Consecutive Sequence ~
-- 133.Clone Graph ~
-- 200.Number of Islands ~
+- 128.Longest Consecutive Sequence :grin:
+- 133.Clone Graph :grin:
+- 200.Number of Islands :grin:
 - 207.Course Schedule
 - 261.Graph Valid Tree (Premium)
 - 323.Number of Connected Components in an Undirected Graph (Premium)
@@ -83,7 +83,7 @@ Easy
 
 Medium
 
-- 56.Merge Intervals ~
+- 56.Merge Intervals :grin:
 - 57.Insert Interval
 - 253.Meeting Rooms II (Plus)
 - 435.Non-overlapping Intervals
@@ -92,8 +92,8 @@ Medium
 
 Easy
 
-- 21.Merge Two Sorted Lists ~
-- 141.Linked List Cycle ~
+- 21.Merge Two Sorted Lists :grin:
+- 141.Linked List Cycle :grin:
 - 206.Reverse Linked List
 
 Medium
@@ -109,7 +109,7 @@ Hard
 
 Medium
 
-- 48.Rotate Image ~
+- 48.Rotate Image :grin:
 - 54.Spiral Matrix
 - 73.Set Matrix Zeroes
 - 79.Word Search
@@ -118,15 +118,15 @@ Medium
 
 Easy
 
-- 20.Valid Parentheses ~
-- 125.Valid Palindrome ~
-- 242.Valid Anagram ~
+- 20.Valid Parentheses :grin:
+- 125.Valid Palindrome :grin:
+- 242.Valid Anagram :grin:
 
 Medium
 
-- 3.Longest Substring Without Repeating Characters ~
+- 3.Longest Substring Without Repeating Characters :grin:
 - 5.Longest Palindromic Substring
-- 49.Group Anagrams ~
+- 49.Group Anagrams :grin:
 - 271.Encode and Decode Strings
 - 424.Longest Repeating Character Replacement
 - 647.Palindromic Substrings
@@ -139,10 +139,10 @@ Hard
 
 Easy
 
-- 100.Same Tree ~
-- 104.Maximum Depth of Binary Tree ~
-- 226.Invert Binary Tree ~
-- 572.Subtree of Another Tree ~
+- 100.Same Tree :grin:
+- 104.Maximum Depth of Binary Tree :grin:
+- 226.Invert Binary Tree :grin:
+- 572.Subtree of Another Tree :grin:
 
 Medium
 
@@ -152,7 +152,7 @@ Medium
 - 208.Implement Trie (Prefix Tree)
 - 211.Design Add and Search Words Data Structure
 - 230.Kth Smallest Element in a BST
-- 235.Lowest Common Ancestor of a Binary Search Tree ~
+- 235.Lowest Common Ancestor of a Binary Search Tree :grin:
 
 Hard
 
@@ -183,7 +183,7 @@ Medium
 
 Medium
 
-- 167.Two Sum II Input Array Is Sorted ~
+- 167.Two Sum II Input Array Is Sorted :grin:
 
 Hard
 
@@ -245,8 +245,8 @@ Hard
 
 Easy
 
-- 110.Balanced Binary Tree ~
-- 543.Diameter of Binary Tree ~
+- 110.Balanced Binary Tree :grin:
+- 543.Diameter of Binary Tree :grin:
 
 Medium
 
@@ -258,7 +258,7 @@ Medium
 Easy
 
 - 703.Kth Largest Element in a Stream
-- 1046.Last Stone Weight ~
+- 1046.Last Stone Weight :grin:
 
 Medium
 
@@ -271,7 +271,7 @@ Medium
 
 Medium
 
-- 17.Letter Combinations of a Phone Numbers ~
+- 17.Letter Combinations of a Phone Numbers :grin:
 - 40.Combination Sum II
 - 46.Permutations
 - 78.Subsets
@@ -306,7 +306,7 @@ Hard
 
 Easy
 
-- 746.Min Cost Climbing Stairs ~
+- 746.Min Cost Climbing Stairs :grin:
 
 Medium
 
@@ -329,7 +329,7 @@ Hard
 Medium
 
 - 45.Jump Game II
-- 134.Gas Station ~
+- 134.Gas Station :grin:
 - 678.Valid Parenthesis String
 - 763.Partition Labels
 - 846.Hand of Straights
@@ -358,7 +358,7 @@ Medium
 
 Easy
 
-- 136.Single Number ~
+- 136.Single Number :grin:
 
 Medium
 
@@ -370,45 +370,49 @@ Medium
 
 #### Array
 
-- 448.Find All Numbers Disappeared in an Array ~
-- 724.Find Pivot Index ~
+- 448.Find All Numbers Disappeared in an Array :grin:
+- 724.Find Pivot Index :grin:
 
 #### Two Pointer
 
-- 228.Summary Ranges ~
-- 283.Move Zeroes ~
-- 344.Reverse String ~
-- 680.Valid Palindrome II ~
+- 228.Summary Ranges :grin:
+- 283.Move Zeroes :grin:
+- 344.Reverse String :grin:
+- 680.Valid Palindrome II :grin:
 
 #### Binary Search
 
-- 374.Guess Number Higher or Lower ~
-- 441.Arranging Coins ~
+- 278.First Bad Version :grin:
+- 374.Guess Number Higher or Lower :grin:
+- 441.Arranging Coins :grin:
 
 #### Hash Table
 
-- 205.Isomorphic Strings ~
-- 290.Word Pattern ~
-- 1189.Maximum Number of Balloons ~
+- 205.Isomorphic Strings :grin:
+- 290.Word Pattern :grin:
+- 1189.Maximum Number of Balloons :grin:
 
 #### Linked List
 
-- 203.Remove Linked List Elements ~
-- 234.Palindrome Linked List ~
+- 83.Remove Duplicates from Sorted List :grin:
+- 203.Remove Linked List Elements :grin:
+- 234.Palindrome Linked List :grin:
 
 #### Tree
 
-- 101.Symmetric Tree ~
+- 101.Symmetric Tree :grin:
 
 #### Matrix
 
-- 1260.Shift 2D Grid ~
+- 1260.Shift 2D Grid :grin:
 
 #### Stack
 
-- 682.Baseball Game ~
+- 682.Baseball Game :grin:
 
 #### Math
 
-- 171.Excel Sheet Column Number
-- 263.Ugly Number ~
+- 171.Excel Sheet Column Number :grin:
+- 231.Power of Two :grin:
+- 263.Ugly Number :grin:
+- 326.Power of Three :grin:

@@ -4,14 +4,22 @@
 
 ### Syntax
 
+### binary
+
+```python
+10 & 8  # --> 8
+8 & 8  # --> 8
+7 & 8  # --> 0
+```  
+
 #### Convertion
 
-num => str: String()
-str => num: Number()
+num => str: `String()`
+str => num: `Number()`
 
 #### Concatenation
 
-arr1.concat(arr2)
+`arr1.concat(arr2)`
 
 ### Problem
 
