@@ -373,6 +373,11 @@ Medium
 - 448.Find All Numbers Disappeared in an Array :grin:
 - 724.Find Pivot Index :grin:
 
+#### String
+
+- 412.Fizz Buzz :grin:
+- 434.Number of Segments in a String :grin:
+
 #### Two Pointer
 
 - 228.Summary Ranges :grin:
@@ -386,10 +391,11 @@ Medium
 - 374.Guess Number Higher or Lower :grin:
 - 441.Arranging Coins :grin:
 
-#### Hash Table
+#### Hash
 
 - 205.Isomorphic Strings :grin:
 - 290.Word Pattern :grin:
+- 349.Intersection of Two Arrays :gain:
 - 1189.Maximum Number of Balloons :grin:
 
 #### Linked List
