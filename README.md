@@ -23,7 +23,7 @@ Medium
 - 33.Search in Rotated Sorted Array :grin:
 - 53.Maximum Subarray :grin:
 - 152.Maximum Product Subarray :grin:
-- 153.Find Minimum in Rotated Sorted Array
+- 153.Find Minimum in Rotated Sorted Array :grin:
 - 238.Product of Array Except Self
 
 #### Binary
@@ -371,6 +371,7 @@ Medium
 #### Array
 
 - 448.Find All Numbers Disappeared in an Array :grin:
+- 500.Keyboard Row :grin:
 - 724.Find Pivot Index :grin:
 
 #### String
@@ -401,6 +402,7 @@ Medium
 #### Linked List
 
 - 83.Remove Duplicates from Sorted List :grin:
+- 160.Intersection of Two Linked Lists :grin:
 - 203.Remove Linked List Elements :grin:
 - 234.Palindrome Linked List :grin:
 
@@ -422,3 +424,4 @@ Medium
 - 231.Power of Two :grin:
 - 263.Ugly Number :grin:
 - 326.Power of Three :grin:
+- 342.Power of Four :grin:
