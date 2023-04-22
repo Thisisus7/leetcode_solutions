@@ -11,6 +11,9 @@ Method2:
     
 Time: O(logn)
 Space: O(1)
+
+method3:
+    min() -- TIme: O(n)
 '''
 
 class Solution:

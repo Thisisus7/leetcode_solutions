@@ -54,7 +54,7 @@ Medium
 - 139.Word Break :grin:
 - 198.House Robber :grin:
 - 213.House Robber II :grin:
-- 300.Longest Increasing Subsequence
+- 300.Longest Increasing Subsequence :grin:
 - 322.Coin Change :grin:
 - 377.Combination Sum IV
 - 1143.Longest Common Subsequence
@@ -84,7 +84,7 @@ Easy
 Medium
 
 - 56.Merge Intervals :grin:
-- 57.Insert Interval
+- 57.Insert Interval :grin:
 - 253.Meeting Rooms II (Plus)
 - 435.Non-overlapping Intervals
 

@@ -1,10 +1,8 @@
 # Note
 
-## --------------------------------------------
+## Python
 
-### Syntax
-
-### binary
+### Binary
 
 ```python
 10 & 8  # --> 8
@@ -12,23 +10,31 @@
 7 & 8  # --> 0
 ```  
 
-#### Convertion
+### `range()`
 
-num => str: `String()`
-str => num: `Number()`
+```python
+range(start, stop, step)  # backward: range(len(arr)-1, -1, -1)
+```
 
-#### Concatenation
+- **start**: Optional. An integer number specifying at which position to start. Default is 0.
+- **stop**: Required. An integer number specifying at which position to stop (not included).
+- **step**: Optional. An integer number specifying the incrementation. Default is 1.
 
-`arr1.concat(arr2)`
+## Problem
 
-### Problem
+### Double pointers
 
-Remove elements from an array (in place): double pointers.
+Remove elements from an array (in place).
 
-Ordered array: binary search
+### Binary search
+
+Ordered array.
+
+***
 
 array/string represents a number: reverse maybe helpful
 
 interval problems: draw a number line
 
 string: convert string to array may be helpful
+
