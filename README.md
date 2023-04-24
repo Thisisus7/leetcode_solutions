@@ -33,7 +33,7 @@ Medium
 - 36.Valid Sudoku
 - 49.Group Anagrams :v:
 - 128.Longest Consecutive Sequence :v:
-- 238.Product of Array Except Self
+- 238.Product of Array Except Self :v:
 - 271.Encode and Decode Strings
 - 347.Top K Frequent Elements
 - 560.Subarray Sum Equals K :v:
@@ -127,7 +127,7 @@ Medium
 - 309.Best Time to Buy And Sell Stock With Cooldown
 - 494.Target Sum
 - 518.Coin Change II
-- 1143.Longest Common Subsequence
+- 1143.Longest Common Subsequence :running:
 - 1646.Get Maximum in Generated Array :v:
 
 Hard
@@ -173,7 +173,7 @@ Medium
 - 695.Max Area of Island
 - 743.Network Delay Time
 - 787.Cheapest Flights Within K Stops
-- 994.Rotting Oranges
+- 994.Rotting Oranges :running:
 - 1584.Min Cost to Connect All Points
 
 Hard
@@ -192,7 +192,7 @@ Easy
 
 Medium
 
-- 215.Kth Largest Element In An Array
+- 215.Kth Largest Element In An Array :running:
 - 355.Design Twitter
 - 621.Task Scheduler
 - 973.K Closest Points to Origin
@@ -212,7 +212,7 @@ Medium
 - 56.Merge Intervals :v:
 - 57.Insert Interval :v:
 - 253.Meeting Rooms II (Plus)
-- 435.Non-overlapping Intervals
+- 435.Non-overlapping Intervals :running:
 
 Hard
 
@@ -227,7 +227,7 @@ Easy
 - 141.Linked List Cycle :v:
 - 160.Intersection of Two Linked Lists :v:
 - 203.Remove Linked List Elements :v:
-- 206.Reverse Linked List
+- 206.Reverse Linked List :running:
 - 234.Palindrome Linked List :v:
 
 Medium
@@ -281,7 +281,7 @@ Medium
 - 22.Generate Parentheses
 - 150.Evaluate Reverse Polish Notation
 - 155.Min Stack
-- 739.Daily Temperatures
+- 739.Daily Temperatures :running:
 - 853.Car Fleet
 
 Hard
@@ -353,10 +353,10 @@ Medium
 - 98.Validate Binary Search Tree
 - 102.Binary Tree Level Order Traversal
 - 105.Construct Binary Tree from Preorder and Inorder Traversal
-- 199.Binary Tree Right Side View
+- 199.Binary Tree Right Side View :running:
 - 230.Kth Smallest Element in a BST
 - 235.Lowest Common Ancestor of a Binary Search Tree :v:
-- 1448.Count Good Nodes In Binary Tree
+- 1448.Count Good Nodes In Binary Tree :running:
 
 Hard
 
