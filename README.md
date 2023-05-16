@@ -70,7 +70,7 @@ Medium
 
 - 33.Search in Rotated Sorted Array :v:
 - 153.Find Minimum in Rotated Sorted Array :v:
-- 857.Koko Eating Bananas
+- 875.Koko Eating Bananas :v:
 - 981.Time Based Key Value Store
 
 Hard
@@ -82,6 +82,7 @@ Hard
 Medium
 
 - 17.Letter Combinations of a Phone Numbers :v:
+- 39.Combination Sum
 - 40.Combination Sum II
 - 46.Permutations
 - 78.Subsets
@@ -227,7 +228,7 @@ Easy
 - 141.Linked List Cycle :v:
 - 160.Intersection of Two Linked Lists :v:
 - 203.Remove Linked List Elements :v:
-- 206.Reverse Linked List :running:
+- 206.Reverse Linked List :v:
 - 234.Palindrome Linked List :v:
 
 Medium
