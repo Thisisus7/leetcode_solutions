@@ -233,8 +233,8 @@ Easy
 
 Medium
 
-- 2.Add Two Numbers
-- 19.Remove Nth Node From End of List
+- 2.Add Two Numbers :v:
+- 19.Remove Nth Node From End of List :v:
 - 138.Copy List With Random Pointer
 - 143.Reorder List
 - 146.LRU Cache
