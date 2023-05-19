@@ -279,7 +279,7 @@ Easy
 
 Medium
 
-- 22.Generate Parentheses
+- 22.Generate Parentheses :v:
 - 150.Evaluate Reverse Polish Notation
 - 155.Min Stack
 - 739.Daily Temperatures :v:
