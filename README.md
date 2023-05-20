@@ -281,7 +281,7 @@ Medium
 
 - 22.Generate Parentheses :v:
 - 150.Evaluate Reverse Polish Notation
-- 155.Min Stack
+- 155.Min Stack :v:
 - 739.Daily Temperatures :v:
 - 853.Car Fleet
 
