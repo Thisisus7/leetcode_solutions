@@ -103,7 +103,7 @@ Easy
 
 Medium
 
-- 5.Longest Palindromic Substring
+- 5.Longest Palindromic Substring :v:
 - 91.Decode Ways
 - 139.Word Break :v:
 - 152.Maximum Product Subarray :v:
