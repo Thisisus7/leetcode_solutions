@@ -238,7 +238,7 @@ Medium
 - 138.Copy List With Random Pointer
 - 143.Reorder List
 - 146.LRU Cache
-- 287.Find The Duplicate Number
+- 287.Find The Duplicate Number :v:
 
 Hard
 
