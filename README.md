@@ -34,7 +34,7 @@ Medium
 - 49.Group Anagrams :v:
 - 128.Longest Consecutive Sequence :v:
 - 238.Product of Array Except Self :v:
-- 271.Encode and Decode Strings
+- 271.Encode and Decode Strings (Plus)
 - 347.Top K Frequent Elements
 - 560.Subarray Sum Equals K :v:
 
@@ -265,7 +265,7 @@ Medium
 
 - 43.Multiply Strings
 - 48.Rotate Image :v:
-- 50.Pow(x, n)
+- 50.Pow(x, n) :v:
 - 54.Spiral Matrix
 - 73.Set Matrix Zeroes
 - 2013.Detect Squares
@@ -351,7 +351,7 @@ Easy
 
 Medium
 
-- 98.Validate Binary Search Tree
+- 98.Validate Binary Search Tree :v:
 - 102.Binary Tree Level Order Traversal
 - 105.Construct Binary Tree from Preorder and Inorder Traversal
 - 199.Binary Tree Right Side View :running:
