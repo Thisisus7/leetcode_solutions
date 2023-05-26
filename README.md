@@ -71,7 +71,7 @@ Medium
 - 33.Search in Rotated Sorted Array :v:
 - 153.Find Minimum in Rotated Sorted Array :v:
 - 875.Koko Eating Bananas :v:
-- 981.Time Based Key Value Store
+- 981.Time Based Key Value Store :v:
 
 Hard
 
@@ -147,7 +147,7 @@ Medium
 - 53.Maximum Subarray :v:
 - 55.Jump Game :v:
 - 134.Gas Station :v:
-- 678.Valid Parenthesis String
+- 678.Valid Parenthesis String :v:
 - 763.Partition Labels
 - 846.Hand of Straights
 - 1899.Merge Triplets to Form Target Triplet
