@@ -188,7 +188,7 @@ Hard
 
 Easy
 
-- 703.Kth Largest Element in a Stream
+- 703.Kth Largest Element in a Stream :v:
 - 1046.Last Stone Weight :v:
 
 Medium
@@ -280,7 +280,7 @@ Easy
 Medium
 
 - 22.Generate Parentheses :v:
-- 150.Evaluate Reverse Polish Notation
+- 150.Evaluate Reverse Polish Notation :v:
 - 155.Min Stack :v:
 - 739.Daily Temperatures :v:
 - 853.Car Fleet
